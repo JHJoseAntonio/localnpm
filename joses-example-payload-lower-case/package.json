@@ -1,0 +1,14 @@
+{
+    "name" : "joses-example-payload-lower-case",
+	"version": "0.1.0",
+	"description": "Example converting payload to lower case by Jose",
+    "node-red" : {
+        "nodes": {
+            "lower-case": "lower-case.js"
+        }
+    },
+	"repository": {
+		"type": "http",
+		"url": "http://localhost:8080/joses-example-payload-lower-case"
+	}
+}
