@@ -8,7 +8,7 @@
         }
     },
 	"repository": {
-		"type": "http",
-		"url": "http://localhost:8080/joses-example-payload-lower-case"
+		"type": "git",
+		"url": "git+https://github.com/JHJoseAntonio/localnpm.git"
 	}
 }
